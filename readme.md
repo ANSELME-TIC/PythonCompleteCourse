@@ -1,1 +1,1 @@
-# Learning Online course PythonCompleteCourse for begginers
+# Learning Online course PythonCompleteCourse for beginners
